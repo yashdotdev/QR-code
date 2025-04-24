@@ -1,4 +1,4 @@
-# QR code genertor
+# QR code Generator
 
 ![Logo](/screenshot.png)
 
